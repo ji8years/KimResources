@@ -1,2 +1,2 @@
 # KimResources
-Resources for Kim developer
+Resources for Kim Developer
